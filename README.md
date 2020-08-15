@@ -9,4 +9,4 @@
 
 ### Preview
 
-![GitHub repo](https://raw.githubusercontent.com/code4kb/project-rocketbit/master/src/assets/images/preview-site.png "Repo")
+![GitHub repo](https://github.com/code4kb/project-rocketbit/blob/master/assets/images/preview-site.png "Repo")
