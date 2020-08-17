@@ -1,6 +1,6 @@
 # 🚀 Template site rocketbit
 
-### Basic template site 
+## Basic template site
 
 - Bootstrap 3
 - Javascript
@@ -9,4 +9,4 @@
 
 ### Preview
 
-![GitHub repo](https://github.com/code4kb/project-rocketbit/blob/master/assets/images/preview-site.png "Repo")
+![GitHub repo](https://raw.githubusercontent.com/code4kb/project-rocketbit/master/assets/images/preview-site.png "Repo")
